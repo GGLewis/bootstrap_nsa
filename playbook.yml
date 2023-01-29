@@ -1,0 +1,10 @@
+---
+- name: Webserver
+  hosts: XX.XXX.XXX.XX
+  remote_user: use_xx
+
+  tasks:
+    - name: Include the example role
+      include_role:
+        name: mesroles
+ 

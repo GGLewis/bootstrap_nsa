@@ -1,0 +1,5 @@
+---
+# vars file for mesroles
+
+ssh_pub_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCdj4LZIRLuKI+LurIsM4zUFAv8U7NuPba862P26EkK2hubW2T0/k93sAkZxmFB9XO89IFl4kQcosUl9Np3Go4HAb1IWgwWLkjRZ0iVD4TS3Nu4+bToGGYSPNIbrUkhyw8YHe+S6Hzburl+6YA40Ed4Dx1gSAbJoy9QV2qAlFWK5ye17cF12UfddX4BYvoQjrquRxyZf26RrvdNp8YY43Z7j8n+IgVevzqJ9DHYF9OGwsllmiTjAtlPzrqfZhoYroDnY91xdiega9OsNCLj5Ts+N30OqDDO9DIUmlD/hQcmLcUvZoD+C0mOVNEZpMJhLQzaPT80WY/XFmn2JnmdU1fl Gitlab key"
+username: "ms1"
